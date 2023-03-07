@@ -1,0 +1,13 @@
+{
+  "name": "lavalink",
+  "version": "3.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "got": "^11.8.1"
+  },
+  "scripts": {
+    "start": "bash start.sh"
+  }
+}
